@@ -299,7 +299,7 @@ aside .sidebar i {
 .balance .add {
   background-color: var(--white);
   border-radius: 1rem;
-  padding: 2.6rem;
+  padding: 3rem;
   height: 100%;
   width: 26rem;
   position: relative;
@@ -359,7 +359,7 @@ aside .sidebar i {
 .balance .add .add_image {
   position: absolute;
   top: 3rem;
-  right: 0rem;
+  right: -1rem;
 }
 /* Balance ends */
 
